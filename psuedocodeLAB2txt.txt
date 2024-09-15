@@ -1,0 +1,18 @@
+Find the maximum number in any of the three variables.
+START
+	INPUT NUMBER 1
+	INPUT NUMBER 2
+	INPUT NUMBER 3
+
+	IF NUMBER 3< NUMBER 1 > NUMBER 2 THEN
+		PRINT "NUMBER 1 is the greatest NUMBER"
+	ELSE 
+		PRINT "NUMBER 2 and NUMBER 3 and greater than NUMBER 1" 
+			IF NUMBER 2 > NUMBER 3
+				PRINT "NUMBER 2 is the greatest NUMBER"
+			ELSE
+				PRINT "NUMBER 3 is the greatest NUMBER"
+	END
+-------------------------------------------------------------------------------------
+Take three variables as input and add them without using the + operator (Use your head for this)
+START

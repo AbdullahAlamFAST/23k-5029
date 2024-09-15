@@ -1,0 +1,71 @@
+Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
+If so, determine if it’s an even number or an odd number as well.
+START
+DECLARE INTEGER N and n is a number
+IF N/n
+	print "N is a divisor of n"
+		IF N is divisor, CHECK N/2 = 0
+			print " N is an even number"
+		else
+			print "N is an odd number"
+ELSE
+	print "N is not a divisor of n"
+end
+--------------------------------------------------------------------------------------------------------
+Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+START
+Declare n is a number
+IF n=1
+	print" January "
+   n=2
+	print " February "
+   n=3
+	print " March "
+   n=4
+	print "April "
+   n=5
+	print" May "
+   n=6
+	print" June "
+   n=7
+	print" July "
+   n=8
+	print" August "
+   n=9
+	print" September "
+   n=10
+	print" October "
+   n=11
+	print" November "
+   n=12
+	print" December "
+ELSE
+	print " ERROR, Please enter a number<12 and >1 "
+END
+-----------------------------------------------------------------------------------------------------
+Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+START
+Declare 'n' as an integer
+If n+n
+	Display Sum of integers
+Else
+	Display " Enter Number"
+If n-n
+	Display the differencce between both integers
+Else
+	Display " Enter Number"
+If n*n
+	Display the product of both integers
+Else
+	Display " Enter Number"
+If n/n
+	Display the divison of both integers
+Else
+	Display " Enter Number"
+End
+
+
+
+
+
+
